@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719120628380",
+    "firebase_url": "https://myfitnesspal-1b809-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "myfitnesspal-1b809",
+    "storage_bucket": "myfitnesspal-1b809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719120628380:android:e34bf03bef1e99ebc88b59",
+        "android_client_info": {
+          "package_name": "com.example.simpleui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719120628380-3a0t4hansr2s373jhhkul8mpl7r7c031.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeoaxChpkBewN-O4uIHLxdNPXIC0FeRyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719120628380-3a0t4hansr2s373jhhkul8mpl7r7c031.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
