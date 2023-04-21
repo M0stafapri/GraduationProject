@@ -16,9 +16,4 @@ Features :
 - plan's Author has the ability to comment on any Recipe that created by other on his plans.
 - Search about any communtiy, follow it to see its Recipes.
 
-Images from App :
-
-![MyFitnessPal App](https://user-images.githubusercontent.com/101535118/218357233-0a2adff5-8fd9-46ce-ae2c-db9c585f9c53.jpg)
-
-![MyFitnessPal App (2)](https://user-images.githubusercontent.com/101535118/220873587-f86dfefa-9c32-400a-bef4-47022bf4d986.jpg)
 
